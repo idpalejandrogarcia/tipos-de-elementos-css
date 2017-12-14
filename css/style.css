@@ -1,0 +1,23 @@
+.color {
+  background-color: blue;
+  height: 130px;
+  width: 100px;
+}
+spam {
+  display: inline-block;
+  background-color: red;
+  height: 300px;
+  width: 200px;
+}
+div {
+  display: block;
+  background-color: grey;
+  width: 200px;
+  height: 200px;
+}
+.dos {
+  opacity: 0.5;
+}
+div {
+  display: inline-block;
+}
